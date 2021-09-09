@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="spring-001:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/spring_001_jar</output-path>
+    <root id="archive" name="spring-001.jar">
+      <element id="module-output" name="spring-001" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-expression/5.3.8/spring-expression-5.3.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.8/spring-beans-5.3.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-jcl/5.3.8/spring-jcl-5.3.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.8/spring-context-5.3.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.3.8/spring-core-5.3.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.20/lombok-1.18.20.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.3.8/spring-aop-5.3.8.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
